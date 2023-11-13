@@ -1,0 +1,25 @@
+
+
+
+
+https://sharecode.vn/source-code/multi-vendor-ecommerce-website-with-java-spring-boot-32996.htm#Download
+
+
+
+
+
+1 .Import Project in Eclipse or Spring Tool 
+
+2. Setup Mysql workbench -> Open foder Documentation , run the script file sql.
+
+3. Configure username & password Mysql in file :
+
+Client: C:\Java Web\E-MultiVendor\E-WebParent\E-Client\src\main\resources\application.yml
+
+Admin: C:\Java Web\E-MultiVendor\E-WebParent\E-Admin\src\main\resources\application.properties
+
+4. Run Project
+
+No.	URL / IP	User	Password
+1. Admin	http://localhost:8080/Admin/	admin@gmail.com - pass: 12345678	12345678
+2. Client	http://localhost:80/Client/	 
